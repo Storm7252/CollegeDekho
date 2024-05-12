@@ -1,0 +1,104 @@
+﻿@using JD.com.Models;
+@model IEnumerable<JD.com.Models.CourseGroup>;
+@{
+    ViewData["Title"] = "Privacy";
+}
+<div class="container-fluid d-inline">
+    <div class="row">
+        <div class="col-4" style="float:left;  padding-left:150px;padding-top:100px;margin:0px; ">
+            <img style="width:200px;height:200px;" class="rounded-circle " src="~/css/Gif/final.gif" />
+        </div>
+        <div class="col-4" style="padding-left:auto;padding-top:90px;margin:0px; float:unset;right;position:relative">
+            <h1 class="rounded-circle bg-info alert-info" style="display:inline; font-family:Impact">
+                COLLEGE DEKHO
+                </h1class>
+                <h1 class="rounded-circle bg-warning" style="display:block; position:relative">
+                    From College To Career we Got you covered
+
+                    </h1class>
+        </div>
+        <div class="col-4" style="float:right; padding-top:100px; padding-left:50px;padding-right:0px;margin:0px; ">
+            <img style="width:200px;height:200px;" class="rounded-circle " src="~/css/Gif/final.gif" />
+        </div>
+    </div>
+</div>
+<div class="container mb-3">
+    <h4>Course Groups</h4>
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-3 mt-3 p-2">
+                <button class="btn btn-outline-info" value="@item.CourseGroupId" id="GId" onclick="fun1(this)"/>@item.CourseGroupName
+                
+            </div>
+        }
+        <p>Note: Click on any Course group to check Details</p>
+        <hr/>
+    </div>
+</div>
+<div class="container mt-3 mb-3" style="border:1px solid blue">
+    <div class="row mb-3 mt-3">
+
+        <div class="col-sm-4" style="height:200px; overflow:auto" id="drow"><h5>Courses</h5></div>
+        <div class="col-sm-4" style="height:200px; overflow:auto" id="clg"><h5>Colleges</h5></div>
+        <div class="col-sm-4" style="height:200px; overflow:auto" id="state"><h5>States</h5></div>
+    </div>
+</div>
+
+<script>
+        function fun1(button) {
+            let btnid=$(button).val()
+            console.log(btnid)
+            $.ajax({
+                type:"POST",
+                url: "@Url.Action("getCourse","Home")",
+                data: {Id:btnid},
+                dataType:"json",
+            success: function (response) {
+                console.log("Response received:", response);
+
+                var htmlContent =  '<h4>Courses</h4>';
+                var htmlContent2 = '<h4>Colleges</h4>';
+                var htmlContent3 = '<h4>States</h4>';
+                var uniqueStates = new Set(); // Store unique state names
+
+                if (response && response.length > 0) {
+                    // Iterate over each course
+                    response.forEach(function (course) {
+                        htmlContent += '<button class="btn btn-outline-secondary">' + course.courseName + '</button>';
+
+                        course.colleges.forEach(function (college) {
+                            htmlContent2 += '<button class="btn btn-outline-secondary">' + college.collegeName + '</button>';
+                            uniqueStates.add(college.stateName); // Add state name to the Set
+                        });
+                    });
+
+                    // Convert Set to array and sort alphabetically
+                    var uniqueStatesArray = Array.from(uniqueStates).sort();
+                    // Generate HTML content for unique states
+                     htmlContent3 += uniqueStatesArray.map(function (state) {
+                        return '<button class="btn btn-outline-secondary">' + state + '</button>';
+                    }).join('');
+
+                    $('#drow').html(htmlContent);
+                    $('#clg').html(htmlContent2);
+                    $('#state').html(htmlContent3);
+                } else {
+                    console.error("Response is empty or not in the expected format.");
+                }
+
+                   
+                  
+                            
+                        
+                    },
+                error: function (err) {
+                    console.log(`the error is: ${err}`)
+                }
+
+            })
+    }
+       
+    
+</script>
+
