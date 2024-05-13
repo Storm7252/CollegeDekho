@@ -1,49 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\STORM\\source\\repos\\JD.com\\",
+  "WorkspaceRootPath": "D:\\desktop files\\new\\JD.com\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A5DA1A1-B311-45B5-A57C-E4A28618962F}|JD.com.csproj|c:\\users\\storm\\source\\repos\\jd.com\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5A5DA1A1-B311-45B5-A57C-E4A28618962F}|JD.com.csproj|d:\\desktop files\\new\\jd.com\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5A5DA1A1-B311-45B5-A57C-E4A28618962F}|JD.com.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A5DA1A1-B311-45B5-A57C-E4A28618962F}|JD.com.csproj|c:\\users\\storm\\source\\repos\\jd.com\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{5A5DA1A1-B311-45B5-A57C-E4A28618962F}|JD.com.csproj|d:\\desktop files\\new\\jd.com\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5A5DA1A1-B311-45B5-A57C-E4A28618962F}|JD.com.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A5DA1A1-B311-45B5-A57C-E4A28618962F}|JD.com.csproj|c:\\users\\storm\\source\\repos\\jd.com\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A5DA1A1-B311-45B5-A57C-E4A28618962F}|JD.com.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A5DA1A1-B311-45B5-A57C-E4A28618962F}|JD.com.csproj|c:\\users\\storm\\source\\repos\\jd.com\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5A5DA1A1-B311-45B5-A57C-E4A28618962F}|JD.com.csproj|d:\\desktop files\\new\\jd.com\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A5DA1A1-B311-45B5-A57C-E4A28618962F}|JD.com.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A5DA1A1-B311-45B5-A57C-E4A28618962F}|JD.com.csproj|c:\\users\\storm\\source\\repos\\jd.com\\context\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5A5DA1A1-B311-45B5-A57C-E4A28618962F}|JD.com.csproj|d:\\desktop files\\new\\jd.com\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A5DA1A1-B311-45B5-A57C-E4A28618962F}|JD.com.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A5DA1A1-B311-45B5-A57C-E4A28618962F}|JD.com.csproj|d:\\desktop files\\new\\jd.com\\context\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A5DA1A1-B311-45B5-A57C-E4A28618962F}|JD.com.csproj|solutionrelative:context\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A5DA1A1-B311-45B5-A57C-E4A28618962F}|JD.com.csproj|c:\\users\\storm\\source\\repos\\jd.com\\models\\college.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5A5DA1A1-B311-45B5-A57C-E4A28618962F}|JD.com.csproj|d:\\desktop files\\new\\jd.com\\models\\college.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A5DA1A1-B311-45B5-A57C-E4A28618962F}|JD.com.csproj|solutionrelative:models\\college.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A5DA1A1-B311-45B5-A57C-E4A28618962F}|JD.com.csproj|c:\\users\\storm\\source\\repos\\jd.com\\models\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5A5DA1A1-B311-45B5-A57C-E4A28618962F}|JD.com.csproj|d:\\desktop files\\new\\jd.com\\models\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A5DA1A1-B311-45B5-A57C-E4A28618962F}|JD.com.csproj|solutionrelative:models\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A5DA1A1-B311-45B5-A57C-E4A28618962F}|JD.com.csproj|c:\\users\\storm\\source\\repos\\jd.com\\models\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5A5DA1A1-B311-45B5-A57C-E4A28618962F}|JD.com.csproj|d:\\desktop files\\new\\jd.com\\models\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A5DA1A1-B311-45B5-A57C-E4A28618962F}|JD.com.csproj|solutionrelative:models\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A5DA1A1-B311-45B5-A57C-E4A28618962F}|JD.com.csproj|c:\\users\\storm\\source\\repos\\jd.com\\models\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5A5DA1A1-B311-45B5-A57C-E4A28618962F}|JD.com.csproj|d:\\desktop files\\new\\jd.com\\models\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A5DA1A1-B311-45B5-A57C-E4A28618962F}|JD.com.csproj|solutionrelative:models\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A5DA1A1-B311-45B5-A57C-E4A28618962F}|JD.com.csproj|c:\\users\\storm\\source\\repos\\jd.com\\models\\coursegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5A5DA1A1-B311-45B5-A57C-E4A28618962F}|JD.com.csproj|d:\\desktop files\\new\\jd.com\\models\\coursegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A5DA1A1-B311-45B5-A57C-E4A28618962F}|JD.com.csproj|solutionrelative:models\\coursegroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A5DA1A1-B311-45B5-A57C-E4A28618962F}|JD.com.csproj|c:\\users\\storm\\source\\repos\\jd.com\\models\\collegecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5A5DA1A1-B311-45B5-A57C-E4A28618962F}|JD.com.csproj|d:\\desktop files\\new\\jd.com\\models\\collegecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A5DA1A1-B311-45B5-A57C-E4A28618962F}|JD.com.csproj|solutionrelative:models\\collegecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -60,11 +60,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\STORM\\source\\repos\\JD.com\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "D:\\desktop files\\new\\JD.com\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\STORM\\source\\repos\\JD.com\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\desktop files\\new\\JD.com\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-10T15:20:19.785Z",
               "IsPinned": true,
@@ -72,26 +72,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\STORM\\source\\repos\\JD.com\\Program.cs",
+              "DocumentMoniker": "D:\\desktop files\\new\\JD.com\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\STORM\\source\\repos\\JD.com\\Program.cs",
+              "ToolTip": "D:\\desktop files\\new\\JD.com\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAQwCIAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T07:05:12.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T07:05:12.589Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\STORM\\source\\repos\\JD.com\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\desktop files\\new\\JD.com\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\STORM\\source\\repos\\JD.com\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\desktop files\\new\\JD.com\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAwAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-12T05:00:24.393Z",
               "EditorCaption": ""
@@ -100,9 +99,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "State.cs",
-              "DocumentMoniker": "C:\\Users\\STORM\\source\\repos\\JD.com\\Models\\State.cs",
+              "DocumentMoniker": "D:\\desktop files\\new\\JD.com\\Models\\State.cs",
               "RelativeDocumentMoniker": "Models\\State.cs",
-              "ToolTip": "C:\\Users\\STORM\\source\\repos\\JD.com\\Models\\State.cs",
+              "ToolTip": "D:\\desktop files\\new\\JD.com\\Models\\State.cs",
               "RelativeToolTip": "Models\\State.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -112,9 +111,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "College.cs",
-              "DocumentMoniker": "C:\\Users\\STORM\\source\\repos\\JD.com\\Models\\College.cs",
+              "DocumentMoniker": "D:\\desktop files\\new\\JD.com\\Models\\College.cs",
               "RelativeDocumentMoniker": "Models\\College.cs",
-              "ToolTip": "C:\\Users\\STORM\\source\\repos\\JD.com\\Models\\College.cs",
+              "ToolTip": "D:\\desktop files\\new\\JD.com\\Models\\College.cs",
               "RelativeToolTip": "Models\\College.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -124,9 +123,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "CourseDTO.cs",
-              "DocumentMoniker": "C:\\Users\\STORM\\source\\repos\\JD.com\\Models\\CourseDTO.cs",
+              "DocumentMoniker": "D:\\desktop files\\new\\JD.com\\Models\\CourseDTO.cs",
               "RelativeDocumentMoniker": "Models\\CourseDTO.cs",
-              "ToolTip": "C:\\Users\\STORM\\source\\repos\\JD.com\\Models\\CourseDTO.cs",
+              "ToolTip": "D:\\desktop files\\new\\JD.com\\Models\\CourseDTO.cs",
               "RelativeToolTip": "Models\\CourseDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -136,9 +135,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "DatabaseContext.cs",
-              "DocumentMoniker": "C:\\Users\\STORM\\source\\repos\\JD.com\\Context\\DatabaseContext.cs",
+              "DocumentMoniker": "D:\\desktop files\\new\\JD.com\\Context\\DatabaseContext.cs",
               "RelativeDocumentMoniker": "Context\\DatabaseContext.cs",
-              "ToolTip": "C:\\Users\\STORM\\source\\repos\\JD.com\\Context\\DatabaseContext.cs",
+              "ToolTip": "D:\\desktop files\\new\\JD.com\\Context\\DatabaseContext.cs",
               "RelativeToolTip": "Context\\DatabaseContext.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -146,24 +145,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\STORM\\source\\repos\\JD.com\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "D:\\desktop files\\new\\JD.com\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\STORM\\source\\repos\\JD.com\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\desktop files\\new\\JD.com\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAUwCsAAAAjAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAwwBwAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:14:16.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T15:14:16.546Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Courses.cs",
-              "DocumentMoniker": "C:\\Users\\STORM\\source\\repos\\JD.com\\Models\\Courses.cs",
+              "DocumentMoniker": "D:\\desktop files\\new\\JD.com\\Models\\Courses.cs",
               "RelativeDocumentMoniker": "Models\\Courses.cs",
-              "ToolTip": "C:\\Users\\STORM\\source\\repos\\JD.com\\Models\\Courses.cs",
+              "ToolTip": "D:\\desktop files\\new\\JD.com\\Models\\Courses.cs",
               "RelativeToolTip": "Models\\Courses.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAuwAoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -173,9 +171,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "CourseGroup.cs",
-              "DocumentMoniker": "C:\\Users\\STORM\\source\\repos\\JD.com\\Models\\CourseGroup.cs",
+              "DocumentMoniker": "D:\\desktop files\\new\\JD.com\\Models\\CourseGroup.cs",
               "RelativeDocumentMoniker": "Models\\CourseGroup.cs",
-              "ToolTip": "C:\\Users\\STORM\\source\\repos\\JD.com\\Models\\CourseGroup.cs",
+              "ToolTip": "D:\\desktop files\\new\\JD.com\\Models\\CourseGroup.cs",
               "RelativeToolTip": "Models\\CourseGroup.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -185,9 +183,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "CollegeCourse.cs",
-              "DocumentMoniker": "C:\\Users\\STORM\\source\\repos\\JD.com\\Models\\CollegeCourse.cs",
+              "DocumentMoniker": "D:\\desktop files\\new\\JD.com\\Models\\CollegeCourse.cs",
               "RelativeDocumentMoniker": "Models\\CollegeCourse.cs",
-              "ToolTip": "C:\\Users\\STORM\\source\\repos\\JD.com\\Models\\CollegeCourse.cs",
+              "ToolTip": "D:\\desktop files\\new\\JD.com\\Models\\CollegeCourse.cs",
               "RelativeToolTip": "Models\\CollegeCourse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

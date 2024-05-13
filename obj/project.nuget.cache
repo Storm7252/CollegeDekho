@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DlqzfUnehQ/fVzM1bWQ/QLcPAsM8RrBsXh3sCl7W4SFAsfTrtyzvCpdS8V0/D6ZVZ6h5h/nfSFgGHXNcQUJVxg==",
+  "dgSpecHash": "bjv+mlYtV7MY00tMyFHKYnQKC4fNbwm21H2q5W27s4EehChknGCsFnSf607k3PA6tCvZAE1+bPWoI91u4U5/Bg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\STORM\\source\\repos\\JD.com\\JD.com.csproj",
+  "projectFilePath": "D:\\desktop files\\new\\JD.com\\JD.com.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\STORM\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\STORM\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

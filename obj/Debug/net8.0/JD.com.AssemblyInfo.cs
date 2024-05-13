@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JD.com")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10dcaa64a912772cf1bca47a9a281723255e0275")]
 [assembly: System.Reflection.AssemblyProductAttribute("JD.com")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JD.com")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

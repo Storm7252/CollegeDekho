@@ -7844,11 +7844,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\STORM\\source\\repos\\JD.com\\JD.com.csproj",
+      "projectUniqueName": "D:\\desktop files\\new\\JD.com\\JD.com.csproj",
       "projectName": "JD.com",
-      "projectPath": "C:\\Users\\STORM\\source\\repos\\JD.com\\JD.com.csproj",
+      "projectPath": "D:\\desktop files\\new\\JD.com\\JD.com.csproj",
       "packagesPath": "C:\\Users\\STORM\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\STORM\\source\\repos\\JD.com\\obj\\",
+      "outputPath": "D:\\desktop files\\new\\JD.com\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\STORM\\AppData\\Roaming\\NuGet\\NuGet.Config",
